@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657165253 source:f:\program projects\cpp projects\cpp_cp\stl_array\main.cpp
+	<iostream>
+	<array>
+
